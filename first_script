@@ -1,0 +1,14 @@
+#!/bin/bash
+
+# AUTHOR: Maellet Bundu
+# DATE CREATED: 10th SEPTEMBER 2023
+# DATE MODIFIED: 10th SEPTEMBER 2023
+
+# DESCRIPTION:
+# print "This is my first script" to the terminal
+
+# USAGE:
+# first_script
+
+echo "This is my first script"
+exit 0
