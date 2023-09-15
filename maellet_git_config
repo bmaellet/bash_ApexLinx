@@ -1,0 +1,17 @@
+Author: Maellet Bundu
+Date Created: 15th September 2023
+Date Modified: 15th September 2023
+
+--------------------------------------------------
+
+Personal Git Configuration commands:
+My best git aliases configuration are as follow:
+
+git config --global alias.lg log
+git config --global alias.st status
+git config --global alias.cm commit
+git config --global alias.ad add
+git config --global alias.br branch
+git config --global alias.p push
+
+
